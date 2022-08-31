@@ -1,0 +1,18 @@
+body {
+    background-color: darkslategrey;
+}
+#bar {
+    color: white;
+}
+#gauge {
+    color: white;
+}
+#bubble {
+    color: white;
+}
+.jumbotron {
+    background-image: url("../images/science.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+}
