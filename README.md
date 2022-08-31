@@ -1,3 +1,3 @@
 # Bellybutton Biodiversity
 ## Preview
-![page-preview]("/static/images/preview.png")
+![page-preview](./static/images/preview.png)
